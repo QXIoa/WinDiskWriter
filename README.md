@@ -280,7 +280,7 @@ With this USB drive, you can install and enjoy <strong>Windows</strong> on your 
     Bitcoin (BTC): <b>bc1qe2z68uwgplxfzspdy5pnxhzza2spep0ryk5zeq</b>
   </li>
   <li>
-    Toncoin [TON]: <b>UQBzFgALzKsCW6dLrc4sA0WoBhdODEK2KliGgoi1Hj8UqXOb</b>
+    Toncoin [TON]: <b>UQC-4xGw9jowk93dWXHVVTUpboe2hb6GT3W4g6yxn3hphCYc</b>
   </li>
   <li>
     Etherium (ETH): <b>0x1410acAc3e0De885f4fb8C305a2F7B586d47c5ff</b>
